@@ -16,8 +16,8 @@ Personal Portfolio intended to demonstrate my html, css and Javascript skillset.
 
 ## Deployment:
 Update links
-GitHub Repo [GitHub] https://github.com/KevinJ3259/Refactor-Challenge-2022/
-GitHub Pages https://kevinj3259.github.io/Refactor-Challenge-2022/
+GitHub Repo [GitHub] https://github.com/KevinJ3259/Kevin-Jordan-Portfolio
+GitHub Pages https://kevinj3259.github.io/Kevin-Jordan-Portfolio/
 ![picture](image.png)
 
 
@@ -26,8 +26,8 @@ GitHub Pages https://kevinj3259.github.io/Refactor-Challenge-2022/
 
 ## Installation:
 1. No installation is needed
-2. You may view the code on [GitHub] https://github.com/KevinJ3259/Refactor-Challenge-2022/
-3. To view the site on GitHub Pages https://kevinj3259.github.io/Refactor-Challenge-2022/W
+2. You may view the code on [GitHub] https://github.com/KevinJ3259/Kevin-Jordan-Portfolio
+3. To view the site on GitHub Pages https://kevinj3259.github.io/Kevin-Jordan-Portfolio/
 
 
 
